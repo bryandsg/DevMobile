@@ -1,4 +1,7 @@
 <resources>
-    <string name="app_name">QuentoGame</string>
-    <string name="quento">QUENTO</string>
+    <string name="app_name">Quento</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="star_label_2">2 numbers</string>
+    <string name="star_label_3">3 numbers</string>
 </resources>
