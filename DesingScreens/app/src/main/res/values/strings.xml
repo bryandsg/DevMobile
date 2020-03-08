@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DesingScreens</string>
+    <string name="checkout">Checkout</string>
+    <string name="shopping_cart">Shopping cart</string>
+    <string name="total">Total Price</string>
+    <string name="white_shirt">White Shirt</string>
+    <string name="nike_sneakers">Nike Sneakers</string>
+    <string name="simple_tshirt">Simple T-Shirt</string>
+    <string name="black_cap">Black Cap</string>
+    <string name="value">$ 456.94</string>
+    <string name="value2">$ 25.00</string>
+    <string name="value3">$ 18.33</string>
+    <string name="value4">$ 3.99</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+
+</resources>

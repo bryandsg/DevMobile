@@ -3,7 +3,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <ImageView
+        android:id="@+id/ball1"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="30dp"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:src="@drawable/circle"/>
+
 </RelativeLayout>
