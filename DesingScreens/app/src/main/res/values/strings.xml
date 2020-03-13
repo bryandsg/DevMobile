@@ -13,5 +13,8 @@
     <string name="value4">$ 3.99</string>
     <string name="plus">+</string>
     <string name="minus">-</string>
+    <string name="list_title">List</string>
+    <string name="list_string_1">The quick brown fox jumps over the lazy dog</string>
+    <string name="list_string_time">Today, 1:45 PM</string>
 
 </resources>
