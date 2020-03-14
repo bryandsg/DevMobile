@@ -16,5 +16,7 @@
     <string name="list_title">List</string>
     <string name="list_string_1">The quick brown fox jumps over the lazy dog</string>
     <string name="list_string_time">Today, 1:45 PM</string>
-
+    <string name="popular_news_title">Popular news</string>
+    <string name="posted">Posted on </string>
+    <string name="date_string">February 11th</string>
 </resources>
