@@ -17,6 +17,16 @@
     <string name="list_string_1">The quick brown fox jumps over the lazy dog</string>
     <string name="list_string_time">Today, 1:45 PM</string>
     <string name="popular_news_title">Popular news</string>
-    <string name="posted">Posted on </string>
-    <string name="date_string">February 11th</string>
+    <string name="posted">Posted on⠀</string>
+    <string name="date_string"> February 11th</string>
+    <string name="lorem">Lorem Ipsum has been the industry’s standard dummy text</string>
+    <string name="signup_title">Sign Up</string>
+    <string name="market">Material Design UI Kit</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="passwd">Password</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+    <string name="already">ALLREADY HAVE AN ACCOUNT?⠀</string>
+    <string name="login">LOG IN!</string>
 </resources>
